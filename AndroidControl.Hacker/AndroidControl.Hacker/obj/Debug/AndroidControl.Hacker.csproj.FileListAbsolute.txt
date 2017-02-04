@@ -1,0 +1,7 @@
+C:\Users\erick.silva\Documents\AndroidControl.Hacker\AndroidControl.Hacker\AndroidControl.Hacker\bin\Debug\AndroidControl.Hacker.exe.config
+C:\Users\erick.silva\Documents\AndroidControl.Hacker\AndroidControl.Hacker\AndroidControl.Hacker\bin\Debug\AndroidControl.Hacker.exe
+C:\Users\erick.silva\Documents\AndroidControl.Hacker\AndroidControl.Hacker\AndroidControl.Hacker\bin\Debug\AndroidControl.Hacker.pdb
+C:\Users\erick.silva\Documents\AndroidControl.Hacker\AndroidControl.Hacker\AndroidControl.Hacker\bin\Debug\Fleck.dll
+C:\Users\erick.silva\Documents\AndroidControl.Hacker\AndroidControl.Hacker\AndroidControl.Hacker\obj\Debug\AndroidControl.Hacker.csprojResolveAssemblyReference.cache
+C:\Users\erick.silva\Documents\AndroidControl.Hacker\AndroidControl.Hacker\AndroidControl.Hacker\obj\Debug\AndroidControl.Hacker.exe
+C:\Users\erick.silva\Documents\AndroidControl.Hacker\AndroidControl.Hacker\AndroidControl.Hacker\obj\Debug\AndroidControl.Hacker.pdb
